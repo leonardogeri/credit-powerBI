@@ -1,0 +1,11 @@
+The .pbix file in this repository cointains a dynamic report in the dashboard format. The content is related to Credit Information System (SCR) from the Brazilian Central Bank (BCB). 
+
+You can visualize this report via Power BI Desktop application by downloading the .pbix file and opening it. 
+If you do not have the app installed, download the .pdf, which will give you an idea of the report, although you will not be able to naviagte through the filters.
+
+This repository aims to work as a porfolio, demonstrating some Power BI skills, such as: 
+
+  1) the use of bookmarks to create "buttons" and give a app feel for the report;
+  2) creating dynamic names (with the dates on the title of the graphics, for example) by using measures; 
+  3) using measures the insert data from different databases in the same graph; 
+  4) using measures to always show the last date value in a graph
